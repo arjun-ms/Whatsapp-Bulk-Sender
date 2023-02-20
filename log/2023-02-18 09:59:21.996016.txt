@@ -1,0 +1,35 @@
+2023-02-18 09:59:22,095 - INFO - 
+
+2023-02-18 09:59:22,096 - INFO - ====== WebDriver manager ======
+2023-02-18 09:59:22,621 - INFO - Current firefox version is 108.0.1
+2023-02-18 09:59:22,622 - INFO - Get LATEST driver version for 108.0.1
+2023-02-18 09:59:24,161 - INFO - Driver [/home/ams/.wdm/drivers/geckodriver/linux64/v0.32.2/geckodriver] found in cache
+2023-02-18 10:00:17,669 - INFO - Message sent to: +917594013460
+2023-02-18 10:00:31,313 - INFO - Message sent to: +916238419675
+2023-02-18 10:00:43,978 - INFO - Message sent to: +919037968231
+2023-02-18 10:00:57,843 - INFO - Message sent to: +916282299228
+2023-02-18 10:01:11,328 - INFO - Message sent to: +918547696835
+2023-02-18 10:01:23,556 - INFO - Message sent to: +916282062527
+2023-02-18 10:01:36,359 - INFO - Message sent to: +917034763817
+2023-02-18 10:01:48,470 - INFO - Message sent to: +917034763817
+2023-02-18 10:02:01,206 - INFO - Message sent to: +916282666134
+2023-02-18 10:02:13,764 - INFO - Message sent to: +916282666134
+2023-02-18 10:02:26,753 - INFO - Message sent to: +916282666134
+2023-02-18 10:02:59,106 - ERROR - Failed to send message to +917012983899  Error: Message: The element reference of [object String] "{\"element-6066-11e4-a52e-4f735466cecf\":\"64deccf7-5a3e-4b47-afff-9371f1fcecda\"}" is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+2023-02-18 10:03:13,055 - INFO - Message sent to: +919074802552
+2023-02-18 10:03:27,812 - INFO - Message sent to: +918921303814
+2023-02-18 10:03:41,338 - INFO - Message sent to: +917025662019
+2023-02-18 10:03:55,100 - INFO - Message sent to: +918139062248
+2023-02-18 10:04:08,416 - INFO - Message sent to: +917994959712
+2023-02-18 10:04:23,714 - INFO - Message sent to: +919847318466
+2023-02-18 10:04:37,073 - INFO - Message sent to: +916238924296
+2023-02-18 10:04:50,580 - INFO - Message sent to: +919746809731
+2023-02-18 10:05:04,269 - INFO - Message sent to: +919567830686
+2023-02-18 10:05:18,029 - INFO - Message sent to: +919447861690
+2023-02-18 10:05:32,430 - INFO - Message sent to: +919072622722
+2023-02-18 10:05:46,024 - INFO - Message sent to: +918281855469
+2023-02-18 10:05:59,552 - INFO - Message sent to: +918921064824
+2023-02-18 10:06:13,576 - INFO - Message sent to: +919995496111
+2023-02-18 10:06:28,290 - INFO - Message sent to: +917356758500
+2023-02-18 10:06:42,080 - INFO - Message sent to: +917012817168

@@ -1,0 +1,12 @@
+2023-02-18 09:42:29,165 - INFO - 
+
+2023-02-18 09:42:29,165 - INFO - ====== WebDriver manager ======
+2023-02-18 09:42:30,691 - INFO - Current firefox version is 108.0.1
+2023-02-18 09:42:30,691 - INFO - Get LATEST driver version for 108.0.1
+2023-02-18 09:42:31,976 - INFO - Driver [/home/ams/.wdm/drivers/geckodriver/linux64/v0.32.2/geckodriver] found in cache
+2023-02-18 09:44:06,151 - INFO - Message sent to: +917591900201
+2023-02-18 09:44:38,794 - ERROR - Failed to send message to +919400531539  Error: Message: The element reference of <button class="tvf2evcx oq44ahr5 lb5m6g5c svlsagor p2rjqpw5 epia9gcq"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+
+2023-02-18 09:44:52,375 - INFO - Message sent to: +919778177858
+2023-02-18 09:45:02,650 - ERROR - Failed to send message to +919037695296  Error: Message: Element <button class="tvf2evcx oq44ahr5 lb5m6g5c svlsagor p2rjqpw5 epia9gcq"> is not clickable at point (1244,799) because another element <div class="cm280p3y p357zi0d f8m0rgwh gndfcl4n ac2vgrno ln8gz9je s4r5ooj2 lffynu9d sdfuwbjb"> obscures it
+

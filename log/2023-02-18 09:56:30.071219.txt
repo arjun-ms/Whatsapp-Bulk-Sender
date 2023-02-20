@@ -1,0 +1,5 @@
+2023-02-18 09:56:30,087 - INFO - 
+
+2023-02-18 09:56:30,088 - INFO - ====== WebDriver manager ======
+2023-02-18 09:56:30,618 - INFO - Current firefox version is 108.0.1
+2023-02-18 09:56:30,618 - INFO - Get LATEST driver version for 108.0.1

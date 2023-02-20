@@ -1,0 +1,515 @@
+1676689787666	geckodriver	INFO	Listening on 127.0.0.1:41963
+1676689789456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofileONr37j"
+
+(firefox:23976): Gtk-WARNING **: 08:39:49.727: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:49.727: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:49.727: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:52.674: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:52.674: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:52.674: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:52.798: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:52.799: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:52.799: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:52.838: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:52.838: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:23976): Gtk-WARNING **: 08:39:52.838: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676689793619	Marionette	INFO	Marionette enabled
+1676689793627	Marionette	INFO	Listening on port 41333
+Read port: 41333
+1676689793970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileONr37j/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1676690218291	geckodriver	INFO	Listening on 127.0.0.1:51581
+1676690218633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofileMa3N8f"
+
+(firefox:30010): Gtk-WARNING **: 08:46:58.895: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:46:58.895: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:46:58.895: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:47:01.674: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:47:01.674: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:47:01.674: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:47:01.798: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:47:01.798: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:47:01.798: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:47:01.838: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:47:01.838: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:30010): Gtk-WARNING **: 08:47:01.838: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676690222500	Marionette	INFO	Marionette enabled
+1676690222508	Marionette	INFO	Listening on port 46279
+Read port: 46279
+1676690222771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMa3N8f/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1676690337801	geckodriver	INFO	Listening on 127.0.0.1:35797
+1676690338865	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofilejCxI9a"
+
+(firefox:32137): Gtk-WARNING **: 08:48:59.042: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:48:59.042: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:48:59.042: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:49:00.803: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:49:00.803: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:49:00.803: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:49:00.932: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:49:00.932: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:49:00.932: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:49:00.970: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:49:00.971: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:32137): Gtk-WARNING **: 08:49:00.971: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676690341334	Marionette	INFO	Marionette enabled
+1676690341342	Marionette	INFO	Listening on port 42425
+Read port: 42425
+1676690341759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejCxI9a/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1676690500570	geckodriver	INFO	Listening on 127.0.0.1:42849
+1676690501597	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofilep0z09I"
+
+(firefox:35367): Gtk-WARNING **: 08:51:41.772: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:41.772: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:41.772: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:43.831: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:43.831: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:43.831: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:43.955: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:43.955: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:43.955: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:43.994: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:43.994: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:35367): Gtk-WARNING **: 08:51:43.994: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676690504562	Marionette	INFO	Marionette enabled
+1676690504566	Marionette	INFO	Listening on port 41021
+Read port: 41021
+1676690504891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep0z09I/search.json.mozlz4", (void 0)))
+1676690507936	Marionette	INFO	Stopped listening on port 41021
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1676690525854	geckodriver	INFO	Listening on 127.0.0.1:37299
+1676690526897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofilelZH8nr"
+
+(firefox:35757): Gtk-WARNING **: 08:52:07.057: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:07.057: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:07.057: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:08.696: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:08.697: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:08.697: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:08.815: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:08.815: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:08.815: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:08.854: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:08.854: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:35757): Gtk-WARNING **: 08:52:08.854: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676690529196	Marionette	INFO	Marionette enabled
+1676690529205	Marionette	INFO	Listening on port 45937
+Read port: 45937
+1676690529393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelZH8nr/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1676690669223	geckodriver	INFO	Listening on 127.0.0.1:45385
+1676690670261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofilea6rHNz"
+
+(firefox:38628): Gtk-WARNING **: 08:54:30.574: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:30.575: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:30.575: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:32.153: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:32.153: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:32.153: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:32.262: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:32.263: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:32.263: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:32.302: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:32.302: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:38628): Gtk-WARNING **: 08:54:32.302: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676690672857	Marionette	INFO	Marionette enabled
+1676690672862	Marionette	INFO	Listening on port 42865
+Read port: 42865
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676690673249	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilea6rHNz/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1676690750278	Marionette	INFO	Stopped listening on port 42865
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1676690750333	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+[2023-02-18T03:25:50Z ERROR glean_core] Can't persist ping lifetime data: Error { kind: Rkv(IoError(Os { code: 2, kind: NotFound, message: "No such file or directory" })) }
+[Parent 38628, IPC I/O Parent] WARNING: process 38690 exited on signal 9: file /build/firefox/src/firefox-108.0.1/ipc/chromium/src/base/process_util_posix.cc:256
+1676690855433	geckodriver	INFO	Listening on 127.0.0.1:57425
+1676690856354	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofile0UFTXa"
+
+(firefox:41257): Gtk-WARNING **: 08:57:36.582: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:36.582: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:36.582: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:38.526: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:38.527: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:38.527: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:38.650: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:38.650: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:38.650: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:38.689: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:38.689: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:41257): Gtk-WARNING **: 08:57:38.689: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676690859174	Marionette	INFO	Marionette enabled
+1676690859182	Marionette	INFO	Listening on port 41849
+Read port: 41849
+1676690859502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0UFTXa/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1676691415187	geckodriver	INFO	Listening on 127.0.0.1:59099
+1676691415872	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofiledpVt4v"
+
+(firefox:46980): Gtk-WARNING **: 09:06:56.093: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:56.094: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:56.094: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:58.717: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:58.725: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:58.725: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:58.817: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:58.818: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:58.818: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:58.857: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:58.857: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:46980): Gtk-WARNING **: 09:06:58.857: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676691420005	Marionette	INFO	Marionette enabled
+1676691420013	Marionette	INFO	Listening on port 34409
+Read port: 34409
+1676691420387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledpVt4v/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1676691558998	Marionette	INFO	Stopped listening on port 34409
+1676692693709	geckodriver	INFO	Listening on 127.0.0.1:59657
+1676692694764	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofileQ7Nolk"
+
+(firefox:51539): Gtk-WARNING **: 09:28:15.019: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:15.019: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:15.019: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:18.704: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:18.704: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:18.704: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:18.806: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:18.807: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:18.807: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:18.846: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:18.847: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:51539): Gtk-WARNING **: 09:28:18.847: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676692699203	Marionette	INFO	Marionette enabled
+1676692699207	Marionette	INFO	Listening on port 45259
+Read port: 45259
+1676692699916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQ7Nolk/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1676692905599	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+1676692930807	Marionette	INFO	Stopped listening on port 45259
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"SessionStore: flushing all windows","state":{"total":1,"current":0},"filename":"resource:///modules/sessionstore/SessionStore.jsm","lineNumber":2199,"stack":["resource:///modules/sessionstore/SessionStore.jsm:ssi_onQuitApplicationGranted:2199","resource:///modules/sessionstore/SessionStore.jsm:ssi_observe:1104","chrome://remote/content/marionette/driver.sys.mjs:GeckoDriver.prototype.quit:2833","chrome://remote/content/marionette/server.sys.mjs:despatch:303","chrome://remote/content/marionette/server.sys.mjs:execute:276","chrome://remote/content/marionette/server.sys.mjs:onPacket/<:249","chrome://remote/content/marionette/server.sys.mjs:onPacket:250","chrome://remote/content/marionette/transport.sys.mjs:_onJSONObjectReady/<:496"]}] Barrier: quit-application-granted
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 380))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"TelemetryController: shutting down","state":{"initialized":true,"initStarted":true,"haveDelayedInitTask":false,"shutdownBarrier":"Not started","connectionsBarrier":"Not started","sendModule":{"sendingEnabled":false,"pendingPingRequestCount":0,"pendingPingActivityCount":0,"unpersistedPingCount":0,"persistedPingCount":0,"schedulerState":{"shutdown":true,"hasSendTask":false,"sendsFailed":false,"sendTaskState":"bail out - no pings to send","backoffDelay":60000}},"haveDelayedNewProfileTask":false},"filename":"resource://gre/modules/TelemetryControllerParent.jsm","lineNumber":914,"stack":["resource://gre/modules/TelemetryControllerParent.jsm:setupTelemetry:914","resource://gre/modules/TelemetryControllerParent.jsm:observe:1029","resource://gre/modules/TelemetryControllerParent.jsm:observe:150","resource://gre/modules/TelemetryStartup.jsm:TelemetryStartup.prototype.observe:33"]}] Barrier: profile-before-change-telemetry
+1676693552482	geckodriver	INFO	Listening on 127.0.0.1:43457
+1676693553025	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofile4KOLGP"
+
+(firefox:57283): Gtk-WARNING **: 09:42:33.307: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:33.307: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:33.307: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:34.975: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:34.985: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:34.985: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:35.103: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:35.103: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:35.103: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:35.142: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:35.142: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:57283): Gtk-WARNING **: 09:42:35.142: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676693555692	Marionette	INFO	Marionette enabled
+1676693555700	Marionette	INFO	Listening on port 41077
+Read port: 41077
+1676693555973	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4KOLGP/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1676693702653	Marionette	INFO	Stopped listening on port 41077
+1676694564164	geckodriver	INFO	Listening on 127.0.0.1:49437
+1676694565283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--profile-directory=Default" "--user-data-dir=/var/tmp/firefox_user_data" "-no-remote" "-profile" "/tmp/rust_mozprofileJL8ewN"
+
+(firefox:62497): Gtk-WARNING **: 09:59:25.357: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:25.357: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:25.357: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:25.905: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:25.926: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:25.926: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:26.054: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:26.054: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:26.054: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:26.093: Theme parsing error: gtk.css:1523:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:26.093: Theme parsing error: gtk.css:1526:91: Missing closing bracket for :not()
+
+(firefox:62497): Gtk-WARNING **: 09:59:26.093: Theme parsing error: gtk.css:1529:91: Missing closing bracket for :not()
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1676694566438	Marionette	INFO	Marionette enabled
+1676694566447	Marionette	INFO	Listening on port 33065
+Read port: 33065
+1676694566762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJL8ewN/search.json.mozlz4", (void 0)))
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/notification_2a485d84012c106acef03b527bb54635.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-middle_7fa161964e93db72b8d00ae22189d75f.mp3
+JavaScript error: https://web.whatsapp.com/serviceworker.js, line 1: TypeError: Cache.put: Cache got basic response with bad status 206 while trying to add request https://web.whatsapp.com/sequential-ptt-end_62ed28be622237546fd39f9468a76a49.mp3
+1676695002083	Marionette	INFO	Stopped listening on port 33065
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
